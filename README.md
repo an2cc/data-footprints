@@ -284,9 +284,13 @@ Data Footprints separates the software licence from the licence for written and 
 - **Software code:** EUPL-1.2 (`SPDX-License-Identifier: EUPL-1.2`)
 - **Documentation and original media:** CC BY 4.0 (`SPDX-License-Identifier: CC-BY-4.0`)
 
+**Attribution:** © 2026 Anna Caellas-Camprubí.
+
 See `LICENSE` and `LICENSE-DOCUMENTATION.md` for the repository notices.
 
 Third-party research information, identifiers, names, trademarks and other source content retain their respective provenance, rights and applicable terms.
+
+
 
 ## Credits
 
