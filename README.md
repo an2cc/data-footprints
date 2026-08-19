@@ -263,6 +263,12 @@ data_footprints_v1_0/
 ├── .gitignore
 ├── .streamlit/
 │   └── config.toml
+├── images/
+│   ├── analytical-workflow.png
+│   ├── citation-pathway-closeup.png
+│   ├── demonstration-network.png
+│   ├── indicator-relation-gap.png
+│   └── workflow-evolution.png
 ├── app.py
 ├── providers.py
 ├── reconciliation.py
@@ -270,6 +276,7 @@ data_footprints_v1_0/
 ├── requirements.txt
 ├── run_app.bat
 ├── run_app.sh
+├── STORY.md
 ├── LICENSE
 ├── LICENSE-DOCUMENTATION.md
 └── README.md

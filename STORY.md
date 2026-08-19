@@ -73,4 +73,4 @@ Data Footprints is not intended to produce a score. It helps users see what evid
 **Data Footprints v1.0 · OpenAIRE AI Hackathon 2026**  
 Concept and development: Anna Caellas-Camprubí  
 Scientific supervision / Methodological advice: Ignasi Labastida; Juan-José Boté-Vericad  
-© 2026 Anna Caellas-Camprubí. This write-up and the original figures are licensed under [CC BY 4.0]. See LICENSE-DOCUMENTATION.md
+© 2026 Anna Caellas-Camprubí. This write-up and the original figures are licensed under CC BY 4.0. See [LICENSE-DOCUMENTATION.md](LICENSE-DOCUMENTATION.md).
